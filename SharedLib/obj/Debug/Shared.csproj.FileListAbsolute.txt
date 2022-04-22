@@ -1,0 +1,168 @@
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\SharedLib\bin\Debug\Antlr3.Runtime.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\SharedLib\bin\Debug\SharedLib.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\SharedLib\bin\Debug\SharedLib.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\SharedLib\bin\Debug\WPFToolkit.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\SharedLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\SharedLib\obj\Debug\SharedLib.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\SharedLib\obj\Debug\SharedLib.pdb
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\SharedLib\bin\Debug\SharedLib.dll
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\SharedLib\bin\Debug\SharedLib.pdb
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\SharedLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\SharedLib\obj\Debug\SharedLib.dll
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\SharedLib\obj\Debug\SharedLib.pdb
+D:\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+D:\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\ericproject\SharedLib\bin\Debug\SharedLib.dll
+D:\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+D:\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+D:\ericproject\SharedLib\obj\Debug\SharedLib.dll
+D:\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+E:\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\ericproject\SharedLib\bin\Debug\SharedLib.dll
+E:\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+E:\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+E:\ericproject\SharedLib\obj\Debug\ResolveAssemblyReference.cache
+E:\ericproject\SharedLib\obj\Debug\SharedLib.dll
+E:\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+E:\Backup\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Backup\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Backup\ericproject\SharedLib\bin\Debug\SharedLib.dll
+E:\Backup\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+E:\Backup\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Backup\ericproject\SharedLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\ericproject\SharedLib\obj\Debug\SharedLib.dll
+E:\Backup\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+E:\Workingfolder\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Workingfolder\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Workingfolder\ericproject\SharedLib\bin\Debug\SharedLib.dll
+E:\Workingfolder\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+E:\Workingfolder\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Workingfolder\ericproject\SharedLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Workingfolder\ericproject\SharedLib\obj\Debug\SharedLib.dll
+E:\Workingfolder\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+E:\Workingfolder\ericproject\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Workingfolder\ericproject\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Workingfolder\ericproject\ericproject\SharedLib\bin\Debug\SharedLib.dll
+E:\Workingfolder\ericproject\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+E:\Workingfolder\ericproject\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Workingfolder\ericproject\ericproject\SharedLib\obj\Debug\SharedLib.dll
+E:\Workingfolder\ericproject\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+E:\Production\16012016\ericproject\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Production\16012016\ericproject\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Production\16012016\ericproject\ericproject\SharedLib\bin\Debug\SharedLib.dll
+E:\Production\16012016\ericproject\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+E:\Production\16012016\ericproject\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Production\16012016\ericproject\ericproject\SharedLib\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+E:\Production\16012016\ericproject\ericproject\SharedLib\obj\Debug\SharedLib.dll
+E:\Production\16012016\ericproject\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+E:\Production\Working\ericproject\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Production\Working\ericproject\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Production\Working\ericproject\ericproject\SharedLib\bin\Debug\SharedLib.dll
+E:\Production\Working\ericproject\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+E:\Production\Working\ericproject\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Production\Working\ericproject\ericproject\SharedLib\obj\Debug\SharedLib.dll
+E:\Production\Working\ericproject\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+E:\Production\Working\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Production\Working\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Production\Working\ericproject\SharedLib\bin\Debug\SharedLib.dll
+E:\Production\Working\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+E:\Production\Working\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Production\Working\ericproject\SharedLib\obj\Debug\SharedLib.dll
+E:\Production\Working\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\SharedLib\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\SharedLib\bin\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\SharedLib\bin\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\SharedLib\bin\Debug\WPFToolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\SharedLib\obj\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\SharedLib\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\SharedLib\bin\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\SharedLib\bin\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\SharedLib\bin\Debug\WPFToolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\SharedLib\obj\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\SharedLib\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\SharedLib\bin\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\SharedLib\bin\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\SharedLib\bin\Debug\WPFToolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\SharedLib\obj\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\SharedLib\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\SharedLib\bin\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\SharedLib\bin\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\SharedLib\bin\Debug\WPFToolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\SharedLib\obj\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\SharedLib\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\SharedLib\bin\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\SharedLib\bin\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\SharedLib\bin\Debug\WPFToolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\SharedLib\obj\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\SharedLib\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\SharedLib\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\SharedLib\bin\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\SharedLib\bin\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\SharedLib\bin\Debug\WPFToolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\SharedLib\obj\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\bin\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\bin\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\bin\Debug\WPFToolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\obj\Debug\Shared.csproj.CopyComplete
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\obj\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\bin\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\bin\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\bin\Debug\WPFToolkit.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\obj\Debug\Shared.csproj.CopyComplete
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\obj\Debug\SharedLib.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\obj\Debug\SharedLib.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\SharedLib\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\bin\Debug\SharedLib.dll
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\bin\Debug\SharedLib.pdb
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\obj\Debug\SharedLib.dll
+E:\Projects\commission Project\issue fix\Import tool\SharedLib\obj\Debug\SharedLib.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\bin\Debug\SharedLib.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\bin\Debug\SharedLib.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\obj\Debug\Shared.csprojAssemblyReference.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\obj\Debug\Shared.csproj.CopyComplete
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\obj\Debug\SharedLib.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\SharedLib\obj\Debug\SharedLib.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\bin\Debug\Antlr3.Runtime.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\bin\Debug\SharedLib.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\bin\Debug\SharedLib.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\bin\Debug\WPFToolkit.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\obj\Debug\Shared.csproj.CopyComplete
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\obj\Debug\SharedLib.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\obj\Debug\SharedLib.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\SharedLib\obj\Debug\Shared.csprojAssemblyReference.cache

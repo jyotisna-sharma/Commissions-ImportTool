@@ -1,0 +1,231 @@
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\MyAgencyVault.BusinessLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+D:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+D:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+D:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+D:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+D:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+D:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+D:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+D:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+D:\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+D:\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+D:\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+D:\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+E:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Backup\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Workingfolder\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Workingfolder\ericproject\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+E:\Workingfolder\ericproject\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Production\16012016\ericproject\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+E:\Production\16012016\ericproject\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Production\Working\ericproject\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+E:\Production\Working\ericproject\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Production\Working\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Latest_Jan042017\Build_01012017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan102017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Production_Jan242017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\EPPlus.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CopyComplete
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\3.0.9.3_trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\EPPlus.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CopyComplete
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\Import Tool_Trunk\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\EPPlus.dll
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\PGK.Extensions.dll
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.pdb
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojResolveAssemblyReference.cache
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Projects\commission Project\issue fix\Import tool\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\EPPlus.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\PGK.Extensions.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojAssemblyReference.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CoreCompileInputs.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CopyComplete
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csprojAssemblyReference.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.ResolveComReference.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CoreCompileInputs.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\EPPlus.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\PGK.Extensions.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\ActionLogger.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.csproj.CopyComplete
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\MyAgencyVault.BusinessLibrary\obj\Debug\MyAgencyVault.BusinessLibrary.pdb

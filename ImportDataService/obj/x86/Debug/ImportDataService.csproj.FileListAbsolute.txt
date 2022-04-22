@@ -1,0 +1,236 @@
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\ImportDataService.exe.config
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\ImportDataService.exe
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\ImportDataService.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\ActionLogger.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\MyAgencyVault.WcfService.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\NCalc.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\ActionLogger.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\MyAgencyVault.WcfService.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\ImportDataService.exe
+D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Gajender\Projects\MyAgentVaultLatest\MyAgencySolution\ImportDataService\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ericproject\ImportDataService\bin\Debug\ImportDataService.exe.config
+D:\ericproject\ImportDataService\bin\Debug\ImportDataService.exe
+D:\ericproject\ImportDataService\bin\Debug\ImportDataService.pdb
+D:\ericproject\ImportDataService\bin\Debug\ActionLogger.dll
+D:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+D:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+D:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.dll
+D:\ericproject\ImportDataService\bin\Debug\NCalc.dll
+D:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+D:\ericproject\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+D:\ericproject\ImportDataService\bin\Debug\ActionLogger.pdb
+D:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+D:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+D:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.pdb
+D:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+D:\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+D:\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+D:\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+D:\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.exe
+D:\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+E:\ericproject\ImportDataService\bin\Debug\ImportDataService.exe.config
+E:\ericproject\ImportDataService\bin\Debug\ImportDataService.exe
+E:\ericproject\ImportDataService\bin\Debug\ImportDataService.pdb
+E:\ericproject\ImportDataService\bin\Debug\ActionLogger.dll
+E:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.dll
+E:\ericproject\ImportDataService\bin\Debug\NCalc.dll
+E:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\ericproject\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+E:\ericproject\ImportDataService\bin\Debug\ActionLogger.pdb
+E:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.pdb
+E:\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\ericproject\ImportDataService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\ericproject\ImportDataService\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ericproject\ImportDataService\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.exe
+E:\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+E:\Backup\ericproject\ImportDataService\bin\Debug\ImportDataService.exe.config
+E:\Backup\ericproject\ImportDataService\bin\Debug\ImportDataService.exe
+E:\Backup\ericproject\ImportDataService\bin\Debug\ImportDataService.pdb
+E:\Backup\ericproject\ImportDataService\bin\Debug\ActionLogger.dll
+E:\Backup\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Backup\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Backup\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.dll
+E:\Backup\ericproject\ImportDataService\bin\Debug\NCalc.dll
+E:\Backup\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Backup\ericproject\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+E:\Backup\ericproject\ImportDataService\bin\Debug\ActionLogger.pdb
+E:\Backup\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Backup\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Backup\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.pdb
+E:\Backup\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Backup\ericproject\ImportDataService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Backup\ericproject\ImportDataService\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup\ericproject\ImportDataService\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Backup\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.exe
+E:\Backup\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+E:\Workingfolder\ericproject\ImportDataService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Workingfolder\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Workingfolder\ericproject\ImportDataService\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Workingfolder\ericproject\ImportDataService\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\ImportDataService.exe.config
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\ImportDataService.exe
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\ImportDataService.pdb
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\ActionLogger.dll
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.dll
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\NCalc.dll
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\ActionLogger.pdb
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.pdb
+E:\Workingfolder\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Workingfolder\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.exe
+E:\Workingfolder\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+E:\Workingfolder\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+E:\Workingfolder\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Workingfolder\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+E:\Production\16012016\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+E:\Production\16012016\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Production\16012016\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+E:\Production\Working\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+E:\Production\Working\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Production\Working\ericproject\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+E:\Production\Working\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+E:\Production\Working\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Production\Working\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\ImportDataService.exe.config
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\ImportDataService.exe
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\ImportDataService.pdb
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\ActionLogger.dll
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.dll
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\NCalc.dll
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\ActionLogger.pdb
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\MyAgencyVault.WcfService.pdb
+E:\Production\Working\ericproject\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Production\Working\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.exe
+E:\Production\Working\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+C:\Jyotisna\My Projects\Projects\Commissions_Aug192016\vinod yadav - ericproject (2)\ericproject\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\ImportDataService.exe.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\ImportDataService.exe
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\ImportDataService.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\MyAgencyVault.WcfService.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\NCalc.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\ActionLogger.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\MyAgencyVault.WcfService.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\obj\x86\Debug\ImportDataService.exe
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\Production_Jan242017\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\3.0.9.3\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\obj\x86\Debug\ImportDataService.csprojResolveAssemblyReference.cache
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.Cache
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\obj\x86\Debug\ImportDataService.csproj.CoreCompileInputs.cache
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\ImportDataService.exe.config
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\ImportDataService.exe
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\ImportDataService.pdb
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\ActionLogger.dll
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\NCalc.dll
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\PGK.Extensions.dll
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\ActionLogger.pdb
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\obj\x86\Debug\ImportDataService.exe
+E:\Projects\commission Project\issue fix\Import tool\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\ImportDataService.exe.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\ImportDataService.exe
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\ImportDataService.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\ActionLogger.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\NCalc.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\Newtonsoft.Json.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\PGK.Extensions.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\ActionLogger.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\obj\x86\Debug\ImportDataService.csprojAssemblyReference.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\obj\x86\Debug\ImportDataService.csproj.CoreCompileInputs.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\obj\x86\Debug\ImportDataService.csproj.CopyComplete
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\obj\x86\Debug\ImportDataService.exe
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\obj\x86\Debug\ImportDataService.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_Production\ImportDataService\obj\x86\Debug\ImportDataService.ImportTool.resources
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\obj\x86\Debug\ImportDataService.csprojAssemblyReference.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\obj\x86\Debug\ImportDataService.ImportTool.resources
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\obj\x86\Debug\ImportDataService.ProjectInstaller.resources
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\obj\x86\Debug\ImportDataService.csproj.GenerateResource.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\obj\x86\Debug\ImportDataService.csproj.CoreCompileInputs.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\ImportDataService.exe.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\ImportDataService.exe
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\ImportDataService.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\ActionLogger.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\NCalc.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\PGK.Extensions.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\Newtonsoft.Json.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\Antlr3.Runtime.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\ActionLogger.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\MyAgencyVault.BusinessLibrary.dll.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\MyAgencyVault.EmailFax.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\bin\Debug\MyAgencyVault.DataAccessLayer.dll.config
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\obj\x86\Debug\ImportDataService.csproj.CopyComplete
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\obj\x86\Debug\ImportDataService.exe
+E:\Jyotisna\Projects\Local SVN\Trunk\branches\ImportTool_July17_2019\ImportDataService\obj\x86\Debug\ImportDataService.pdb

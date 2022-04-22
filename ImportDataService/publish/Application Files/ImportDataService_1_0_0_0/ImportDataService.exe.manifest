@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="ImportDataService.exe" publicKeyToken="b71795fab3aa736c" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ImportDataService" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="ImportDataService.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ActionLogger.dll" size="5120">
+      <assemblyIdentity name="ActionLogger" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>r8LjZlHCqgxn/bCSaP8mKau32Q4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ImportDataService.exe" size="12288">
+      <assemblyIdentity name="ImportDataService" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>6EORzl6q1d1+OWofv33sIDki+w0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyAgencyVault.BusinessLibrary.dll" size="1110528">
+      <assemblyIdentity name="MyAgencyVault.BusinessLibrary" version="2.0.2.8" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>2FNDYnfZUaz7fq2vesvJbPhTm10=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyAgencyVault.DataAccessLayer.dll" size="1470976">
+      <assemblyIdentity name="MyAgencyVault.DataAccessLayer" version="2.0.2.8" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>p6Cp+qcEZHrMu9D5jBTcMfypK8s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyAgencyVault.EmailFax.dll" size="19968">
+      <assemblyIdentity name="MyAgencyVault.EmailFax" version="2.0.2.8" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>KRFUkvQghNpU3HXh4dmLFRjJICU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyAgencyVault.WcfService.dll" size="59392">
+      <assemblyIdentity name="MyAgencyVault.WcfService" version="2.0.0.2" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>3YkjRG5+3Cc5yJHwa4O4jVBZwgQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ImportDataService.exe.config" size="567">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8+s6HdR2OAXmAZ0+0NOVKWmEVrs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=HANUSOFTWARE\vinod.yadav" issuerKeyHash="86bfc8dceeec1ee0bbeb470417e158076490494d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>4NYEQkx4hc7pBt3HAgCUwsZyOnU=</DigestValue></Reference></SignedInfo><SignatureValue>vx+F58oN2ciquI3AFAqA/P0lE4Xwa0SrdEn49j21RaZ/zmTG3YK8WHVXnWryyA1Wl5+rKZk+XQV/PH4H8c7pc5neA17NYhADj4al6w6fYv6WewosuOnO9uCMnLMOOROUb830YtsCElwIzx7QdjIgm+HxUVkoL4sQKgwu8B7JDC4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0x2IgeP5vjwsruACA357W/oSRKb/detHJGc+zB/NSo8Zyirio28TAnaCNIgweLpoRv6nYYB3aCU0LIEuAWrgelAP6h0A8BZ2Cb28Dhe0fgbeUPbA/w4x1Wy0kAQmNzXNnMbhILm0V9QRbtPReULNCzYF6Z5dqiX2d/mIkd481/U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="753a72c6c2940002c7dd06e9ce85784c4204d6e0" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="ImportDataService.exe" publicKeyToken="b71795fab3aa736c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HANUSOFTWARE\vinod.yadav</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>T0FiD+wtR5ThkZ6Mn/OEtISLyRw=</DigestValue></Reference></SignedInfo><SignatureValue>LB5/U82Iuq/PbPw4dtPrFU/uCV7aik2bBmKQvfX4FewPVzzMqO9V7al1IVcEq1/5WhN64v866Zev3dTU3BnPE0OQs7IEXOKFvKQK2z70B3RipMV2r913UahiY2C84VFJY+ipp+Y87cdQrVQdF1olQHmvg8nES5QGnzw+vmJc1hc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0x2IgeP5vjwsruACA357W/oSRKb/detHJGc+zB/NSo8Zyirio28TAnaCNIgweLpoRv6nYYB3aCU0LIEuAWrgelAP6h0A8BZ2Cb28Dhe0fgbeUPbA/w4x1Wy0kAQmNzXNnMbhILm0V9QRbtPReULNCzYF6Z5dqiX2d/mIkd481/U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQJn+4VkzFfLpFN4k+A1anHzANBgkqhkiG9w0BAQUFADA7MTkwNwYDVQQDHjAASABBAE4AVQBTAE8ARgBUAFcAQQBSAEUAXAB2AGkAbgBvAGQALgB5AGEAZABhAHYwHhcNMTMwNjIxMTA1MzQzWhcNMTQwNjIxMTY1MzQzWjA7MTkwNwYDVQQDHjAASABBAE4AVQBTAE8ARgBUAFcAQQBSAEUAXAB2AGkAbgBvAGQALgB5AGEAZABhAHYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANMdiIHj+b48LK7gAgN+e1v6EkSm/3XrRyRnPswfzUqPGcoq4qNvEwJ2gjSIMHi6aEb+p2GAd2glNCyBLgFq4HpQD+odAPAWdgm9vA4XtH4G3lD2wP8OMdVstJAEJjc1zZzG4SC5tFfUEW7T0XlCzQs2BemeXaol9nf5iJHePNf1AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAE3MUZOFUC4QeogZvXbi9tA9IFqdzFTRJUvProcHAqAlPXNYJQH8bzCyCrr2lxFIv7kDffX8JqkdFsjxE4ojEaj+0opeq32UJ83xWRL7q9VLDu6UhqJsAbSoFHxE9qaRWpQiMYZnUMVCASKEmP9Mf1BbVR9pFXOTWESTJlsBRjfY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
